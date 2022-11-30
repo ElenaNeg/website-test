@@ -1,0 +1,52 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(249, 242, 232);
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px while;
+    color: rgb(53, 10, 96);
+}
+
+h2 {
+    font-size: 25px;
+    text-align:left;
+    margin: 0px 50px;
+    text-shadow: 2px 2px 2px while;
+    color: rgb(73, 10, 12);
+}
+
+body {
+    color:rgb(67, 30, 30);
+    font: 90% Roboto, Arial, sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 16px;
+    text-align:left;
+    margin: 10px 35px;
+    line-height: 1.8;
+    color:rgb(23, 15, 15);   
+}
+
+ul li {
+    
+    margin: 15px 35px;
+    margin: 40;
+}
+a {
+
+    padding: 20px 0;
+    margin: 0px 35px;
+}
+img {
+    margin: 0px 35px;
+}
+
+
